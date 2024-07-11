@@ -1,0 +1,10 @@
+name = "MazeGeneration"
+uuid = "e53b4b0d-8a0d-4c2a-9b2e-dfbf26a2e002"
+authors = ["Your Name <your.email@example.com>"]
+version = "0.1.0"
+
+[deps]
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+
+[compat]
+Random = "1.11.0"
